@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class AmazingWebApplication {
 
 	public static void main(String[] args) {
-		System.out.println("Hello , World !");
+		System.out.println("Hello , World Amaithi Amaithi!");
 		SpringApplication.run(AmazingWebApplication.class, args);
 	}
 }
